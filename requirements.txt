@@ -5,3 +5,6 @@ scikit-image
 scikit-learn
 matplotlib
 numpy
+VGG16
+Model
+
